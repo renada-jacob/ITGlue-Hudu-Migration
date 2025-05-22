@@ -227,7 +227,7 @@ $ITGURL = $environmentSettings.ITGURL
 # IT Glue Internal Company Name (The documents from this company will be migrated to the Global KB)
 $InternalCompany = $environmentSettings.InternalCompany
 
-$ITGLueExportPath = $environmentSettings.ITGLueExportPath
+$ITGlueExportPath = $environmentSettings.ITGLueExportPath
 
 
 # Choose if you want to resume previous attempts from the last successful section
